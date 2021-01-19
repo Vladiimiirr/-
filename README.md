@@ -2,5 +2,5 @@
 ### Отчеты по выполненной работе
 1. Реферат на тему: [Нейрокомпьютерный интерфейс](https://vladiimiirr.github.io/report-/).
 2. Работа с Tortoisegit [(Отчет)](https://vladiimiirr.github.io/photo-report/).
-3. [Ссылка](https://github.com/Vladiimiirr/Vladiimiirr.github.lo) на проект сайта. 
+3. [Ссылка](https://github.com/Vladiimiirr/Vladiimiirr.github.lo/find/main) на проект сайта. 
 ![alt](https://github.com/Vladiimiirr/Vladiimiirr.github.lo/blob/main/big.jpg?raw=true)
